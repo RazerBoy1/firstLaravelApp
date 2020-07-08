@@ -1,0 +1,14 @@
+.center {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.container {
+    justify-content: center; /* center horizontally */
+    align-items: center; /* center vertically */
+    margin-top: 2.5%;
+}
